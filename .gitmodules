@@ -1,0 +1,6 @@
+[submodule "hr-leave-management-front"]
+	path = hr-leave-management-front
+	url = git@github.com:rfvizarra/hr-leave-management-front.git
+[submodule "hr-leave-management-api"]
+	path = hr-leave-management-api
+	url = git@github.com:rfvizarra/hr-leave-management-api.git
